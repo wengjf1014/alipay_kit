@@ -15,7 +15,7 @@ dependencies:
   plugin_platform_interface: ^2.0.2
 
   alipay_kit_android: ^6.0.0
-#    path: ../alipay_kit_android
+    path: ../alipay_kit_android
 #  alipay_kit_ios: ^6.0.0
 
   json_annotation: ^4.8.1
